@@ -14,7 +14,7 @@ redirect_from:
 🚴‍♂️ Outside the office: cycling, traveling, exploring new tech (home automation), expanding data skills..
 
 💼What I Do
-======
+------
 Currently working as a Senior Operation Specialist focused on automating financial processes and improving data quality. Most experienced with Excel/VBA, Power Platform tools, and reporting automation.
 
 Getting started
