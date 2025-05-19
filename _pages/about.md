@@ -1,13 +1,17 @@
 ---
 permalink: /
-title: "Milan Haviar"
+title: "👋 Hello there, I'm Milan Haviar"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+💡 Tech-savvy with a strong focus on automation and process optimization. Passionate about turning complex tasks into efficient, streamlined solutions.
+
+⚙️ Experienced in Excel, VBA, Power Automate with growing skills in POwerBi, Python and SQL. Building tools that enhance accuracy, save time, and improve data workflows.
+
+🚴‍♂️ Outside the office: cycling, exploring new tech, and diving into home automation projects.
 
 A data-driven personal website
 ======
