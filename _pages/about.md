@@ -5,7 +5,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-------
+---
 
 💡 Tech-savvy with a strong focus on automation and process optimization. Passionate about turning complex tasks into efficient, streamlined solutions.
 
