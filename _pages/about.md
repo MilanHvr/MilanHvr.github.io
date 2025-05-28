@@ -7,15 +7,30 @@ redirect_from:
   - /about.html
 ---
 
-💡 Tech-savvy with a strong focus on automation and process optimization. Passionate about turning complex tasks into efficient, streamlined solutions.
+💡About me
+------
+Data driven person with focus on automation and process improvement, with a passion for simplifying complex tasks into clear, efficient solutions. 
 
-⚙️ Experienced in Excel, VBA, Power Automate with growing skills in PowerBi, Python and SQL. Building tools that enhance accuracy, save time, and improve data workflows.
+⚙️ Tools & Skills
+------
+Experienced in Excel, VBA, and Power Automate, with growing skills in Power BI, Python, and SQL. I enjoy building tools that save time, reduce errors, and enhance decision-making.
 
-🚴‍♂️ Outside the office: cycling, traveling, exploring new tech (home automation), expanding data skills..
+🔍 Current Focus
+------
+Focusing on learning Python and Power BI to strengthen my data analysis and visualization skills.
 
 💼What I Do
 ------
-Currently working as a Senior Operation Specialist focused on automating financial processes and improving data quality. Most experienced with Excel/VBA, Power Platform tools, and reporting automation.
+Currently working as a Senior Operation Specialist focused on automating financial processes and improving data quality—often through custom-built Excel/VBA tools and Power Platform solutions.
+
+🚴‍♂️ Outside the office
+------
+I enjoy cycling, traveling, books and home automation.
+
+🤝 Let’s Connect
+------
+Always happy to connect with others passionate about automation, data, and creative problem-solving.
+
 
 Getting started
 ======
