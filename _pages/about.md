@@ -9,7 +9,7 @@ redirect_from:
 
 💡About me
 ------
-Data driven person with focus on automation and process improvement, with a passion for simplifying complex tasks into clear, efficient solutions. 
+Data driven person with focus on automation and process improvement, with a passion for simplifying complex tasks into clear, efficient solutions. For more information you can [view my CV here.](https://milanhvr.github.io/files/CV.pdf)
 
 ⚙️ Tools & Skills
 ------
@@ -30,6 +30,11 @@ I enjoy cycling, traveling, books and home automation.
 🤝 Let’s Connect
 ------
 Always happy to connect with others passionate about automation, data, and creative problem-solving.
+
+Selected Experience
+======
+1.Cash reconciliation automation - 
+------
 
 
 Getting started
